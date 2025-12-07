@@ -8,8 +8,6 @@ public class _5_Math {
         System.out.println("Karakök :"+Math.sqrt(16));
         System.out.println("Mutlak :"+Math.abs(-16));
         System.out.println("Üslü :"+Math.pow(2,5));
-        System.out.println("aaa :"+Math.pow(2,5));
-        System.out.println("dd :"+Math.pow(2,5));
 
         System.out.println("Sinüs :"+Math.sin(45));
         System.out.println("Cosinüs :"+Math.cos(45));
